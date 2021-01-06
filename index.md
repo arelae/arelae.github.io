@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Arela's User Page
 
 ###### Styling Text
