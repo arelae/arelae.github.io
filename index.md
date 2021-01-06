@@ -3,13 +3,14 @@ layout: default
 ---
 # Arela's User Page
 ### Hi, I'm Arela
+![Profile Picture](IMG_1136_Original.JPG "prof pic")
 
 **About Me**
 - Major: Computer Science (June 2023)\
 - Technical Skills\
   1. Java\
   2. C++\
-  3. Python\
+  3. Python
 - Hometown: San Diego\
 - Hobbies\
   - Creating travel videos\
