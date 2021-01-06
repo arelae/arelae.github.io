@@ -2,9 +2,10 @@
 layout: default
 ---
 # Arela's User Page
-### Hi, I'm Arela :wave: 
+### Hi, I'm Arela
+:wave:
 
-##### About Me:
+##### About Me
     **- Major:** Computer Science (June 2023)
     **- Hometown:** San Diego
     **- Hobbies:**
@@ -16,18 +17,16 @@ layout: default
         2. C++
         3. Python
  
-###### A saying I like:
+###### A saying I like
 > A mistake is a lesson, not a loss.
 
 ###### Quoting Code
-```
-if(will() == true){
+```if(will() == true){
     way();
 }
 else{
     return;
-}
-```
+}```
 
 ###### Links
 [My Github Repo](https://github.com/arelae/arelae.github.io)
