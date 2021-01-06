@@ -3,7 +3,7 @@ layout: default
 ---
 # Arela's User Page
 ### Hi, I'm Arela
-![Profile Picture](IMG_1136_Original.JPG "prof pic")
+![Profile Picture](../IMG_1136_Original.JPG "prof pic")
 
 **About Me**
 - Major: Computer Science (June 2023)\
