@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+
 # Arela's User Page
-### Hi, I'm Arela
+### Hi, I'm Arela! :wave:
 ![Profile Picture](/assets/IMG_1136_Original.JPG "prof pic")
 
 **About Me**
