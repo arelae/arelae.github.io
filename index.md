@@ -1,51 +1,42 @@
 # Arela's User Page
+### Hi, I'm Arela :wave: 
 
-###### Styling Text
-**bold**
-*italic*
-~~strikethrough~~
-**bold and *nested italic***
-***bold and italic***
-
-###### Quoting Text
-In the words of Abraham Lincoln:
-> Pardon my French
+##### About Me:
+    **- Major:** Computer Science (June 2023)
+    **- Hometown:** San Diego
+    **- Hobbies:**
+        - Creating travel videos
+        - Crocheting
+        - Scrapbooking
+    **- Technical Skills**
+        1. Java
+        2. C++
+        3. Python
+ 
+###### A saying I like:
+> A mistake is a lesson, not a loss.
 
 ###### Quoting Code
-'''
-git status
-git add
-git commit
-'''
+```
+if(will() == true){
+    way();
+}
+else{
+    return;
+}
+```
 
 ###### Links
-[Markdown Constructs](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax#links)
-
-###### Section Links
-[Check out more about Styling Text](#quoting-text)
+[My Github Repo](https://github.com/arelae/arelae.github.io)
 
 ###### Relative Links
 [README file](README.md)
 
-###### Lists
-- Red
-- Blue
-- Yellow
-
-1. Earth
-2. Water
-3. Air
-4. Fire
-
-###### Nested Lists
-- Lists
-  - Nested Lists
-    - More Nested Lists
-
 ###### Task Lists
-- [x] Finish Lab
-- [ ] Read a book
-- [ ] Watch lecture
+- [x] Apply to internships
+- [ ] Get internship
+- [ ] Graduate
+- [ ] Get a job
 
-###### Using Emoji
-:+1: good job!
+###### Section Links
+[Back to the top](#arelas-user-page)
