@@ -4,7 +4,7 @@ layout: default
 
 # Arela's User Page
 ### Hi, I'm Arela! :wave:
-![](/assets/IMG_1136_Original.JPG | height=250 width=250)
+![](/assets/Webp.net-resizeimage.jpg)
 
 **About Me**
 - Major: Computer Science (June 2023)
