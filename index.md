@@ -32,10 +32,10 @@ else{
 ```
 *~~More Links~~*
 **Links**
-[My Github Repo]*(https://github.com/arelae/arelae.github.io)*
+*[My Github Repo](https://github.com/arelae/arelae.github.io)*
 
 **Relative Links**
-[README file]*(README.md)*
+*[README file](README.md)*
 
 **Task Lists**
 - [x] Apply to internships
@@ -44,4 +44,4 @@ else{
 - [ ] Get a job
 
 **Section Links**
-[Back to the top]*(#arelas-user-page)*
+*[Back to the top](#arelas-user-page)*
