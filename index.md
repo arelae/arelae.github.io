@@ -5,16 +5,16 @@ layout: default
 ### Hi, I'm Arela
 
 **About Me**
-    - Major: Computer Science (June 2023)
-    - Technical Skills
-        1. Java
-        2. C++
-        3. Python
-    - Hometown: San Diego
-    - Hobbies
-        - Creating travel videos
-        - Crocheting
-        - Scrapbooking
+- Major: Computer Science (June 2023)
+- Technical Skills
+  1. Java
+  2. C++
+  3. Python
+- Hometown: San Diego
+- Hobbies
+  - Creating travel videos
+  - Crocheting
+  - Scrapbooking
  
 **A saying I like**
 > A mistake is a lesson, not a loss.
