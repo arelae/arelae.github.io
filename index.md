@@ -4,19 +4,19 @@ layout: default
 
 # Arela's User Page
 ### Hi, I'm Arela! :wave:
-![Profile Picture](/assets/IMG_1136_Original.JPG "prof pic")
+![](/assets/IMG_1136_Original.JPG =250x250)
 
 **About Me**
-- Major: Computer Science (June 2023)\
-- Technical Skills\
-  1. Java\
-  2. C++\
+- Major: Computer Science (June 2023)
+- Technical Skills
+  1. Java
+  2. C++
   3. Python
-- Hometown: San Diego\
-- Hobbies\
-  - Creating travel videos\
-  - Crocheting\
-  - Scrapbooking\
+- Hometown: San Diego
+- Hobbies
+  - Creating travel videos
+  - Crocheting
+  - Scrapbooking
  
 **A Saying I Like**
 > A mistake is a lesson, not a loss.
