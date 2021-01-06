@@ -3,16 +3,15 @@ layout: default
 ---
 # Arela's User Page
 ### Hi, I'm Arela
-:wave:
 
 ##### About Me
-    **- Major:** Computer Science (June 2023)
-    **- Hometown:** San Diego
-    **- Hobbies:**
+    - ** Major** Computer Science (June 2023)
+    - ** Hometown** San Diego
+    - ** Hobbies**
         - Creating travel videos
         - Crocheting
         - Scrapbooking
-    **- Technical Skills**
+    - ** Technical Skills**
         1. Java
         2. C++
         3. Python
