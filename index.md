@@ -42,6 +42,8 @@ else{
 - [ ] Get internship
 - [ ] Graduate
 - [ ] Get a job
+- [ ] Travel the world
+- [ ] Enjoy life
 
 **Section Links**
 *[Back to the top](#arelas-user-page)*
