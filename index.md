@@ -16,7 +16,7 @@ layout: default
  
 **Projects I've Worked On**
 
-Pomodoro Timer Website
+#### Pomodoro Timer Website
 
 Github: https://github.com/dnanjunda/cse110-w21-group11 (Group Project)
 
