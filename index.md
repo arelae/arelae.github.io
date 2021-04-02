@@ -16,11 +16,10 @@ layout: default
  
 **Projects I've Worked On**
 
-#### Pomodoro Timer Website
-
-Github: https://github.com/dnanjunda/cse110-w21-group11 (Group Project)
-
-Worked as a team to create a fully working Pomodoro Web App that allows for custom timer length and connects the timers to user specified tasks. Overall, helps user to time manage and focus better.
+#### Pomodoro Timer Website (Group Project)
+*[Github Repo](https://github.com/dnanjunda/cse110-w21-group11)* 
+and *[Github Page](https://dnanjunda.github.io/cse110-w21-group11/)*
+- Worked as a team to create a fully working Pomodoro Web App that allows for custom timer length and connects the timers to user specified tasks. Overall, helps user to time manage and focus better.
 
 Made using: HTML, CSS, JavaScript
 
